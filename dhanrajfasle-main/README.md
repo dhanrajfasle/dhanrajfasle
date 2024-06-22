@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on MERN Projects 
+- 🔭 I’m currently working on MERN Projects
 
 - 🌱 I’m currently learning * DSA and JAVA *
 
