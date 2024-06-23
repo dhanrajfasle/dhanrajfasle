@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning * DSA and JAVA *
 
-- 💻 Currently i am MCA last year Student in Government College Of Engineering,Karad
+- 💻 Currently i am MCA last year Student in GCE,Karad
 
 - 🎓 I have a degree in BCA
 
