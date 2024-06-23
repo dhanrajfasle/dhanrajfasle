@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning * DSA and JAVA *
 
+- 💻 Currently i am MCA last year Student in Government College Of Engineering,Karad
+
 - 🎓 I have a degree in BCA
 
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/dhanrajfasle)**
