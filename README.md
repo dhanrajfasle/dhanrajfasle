@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Dhanraj Fasle <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am FULL STACK Developer</h3>
+<h3 align="center">Passionate FULL STACK Developer | MERN Stack Enthusiast</h3>
 
 <hr>
 
@@ -9,8 +9,10 @@
 
 - 🌱 I’m currently learning * DSA and JAVA *
 
+- 🎓 I have a degree in BCA
+
 - 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/dhanrajfasle)**
-- 👨‍💻 LinkedIn Profile   **[inkedIn](https://www.linkedin.com/in/dhanraj-fasle-5b0b1a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** 
+- 💼 LinkedIn Profile   **[inkedIn](https://www.linkedin.com/in/dhanraj-fasle-5b0b1a238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)** 
 <hr>
 
 ## 🚀 Languages:
