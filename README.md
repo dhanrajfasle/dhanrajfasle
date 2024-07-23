@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on MERN Projects
 
-- 🌱 I’m currently learning * DSA and JAVA *
+- 🌱 I’m currently learning * DSA and C++ *
 
 - 💻 Currently i am MCA last year Student in GCE,Karad
 
