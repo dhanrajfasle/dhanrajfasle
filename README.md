@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dhanraj Fasle <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">Passionate FULL STACK Developer | MERN Stack Enthusiast</h3>
+<h1 align="center">Hii, I'm Dhanraj Fasle <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">Passionate FULL STACK Developer | Software Developer </h3>
 
 <hr>
 
