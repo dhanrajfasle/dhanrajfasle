@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on MERN Projects
+- 🔭 I’m Software Developer
 
-- 🌱 I’m currently learning * DSA and C++ *
+- 🌱 I’m currently learning Angular 
 
 - 💻 Currently i am MCA last year Student in GCE,Karad
 
