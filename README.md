@@ -24,21 +24,10 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="firebase" width="40" height="40"/> </a> 
-     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
+     <a href="https://www.java.com" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://www.google.com/imgres?q=angular%20log&imgurl=https%3A%2F%2Fi0.wp.com%2Fafivan.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fangular-300x293-1.png%3Ffit%3D300%252C293%26ssl%3D1&imgrefurl=https%3A%2F%2Fafivan.com%2F2018%2F10%2F11%2Flogin-component-with-ngrx-in-angular-6%2F&docid=IEPAuGQIQKDFUM&tbnid=gJYTKK-QqmmXRM&vet=12ahUKEwiN9_PP9pWMAxW5TWwGHchFCLkQM3oECBUQAA..i&w=300&h=293&hcb=2&ved=2ahUKEwiN9_PP9pWMAxW5TWwGHchFCLkQM3oECBUQAA)"/> </a> 
      <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" width="45" height="45"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="45" height="45"/> </a> 
-
-
-
-<h3 align="left">Frameworks and Tools:</h3>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" alt="firebase" width="40" height="40"/> </a>  
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a> </a> </p>
 </p>
-
-
 <br/>
 <br/>
 
